@@ -1,0 +1,35 @@
+{
+  "version": "v0.6.4",
+  "notes": "fix: path not allowed on the configured scope\n\nfeat:\n- optimize the generated pdf file size\n- menu added `Sync Prompts`\n- `Control Center` added `Sync Custom`\n- the slash command is triggered by the enter key\n- under the slash command, use the tab key to modify the contents of the `{q}` tag (only single changes are supported (https://github.com/lencx/ChatGPT/issues/54)",
+  "pub_date": "2022-12-23T15:06:42.184Z",
+  "platforms": {
+    "win64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRkRlWVZ1WWttc1VwOENBUHRxNU10eEs1ZjlUUTE0OFJiLytLdTNWRngwS0tkdEV0ZTQ5Wm1KVlNzS1VSc0VLanp4c3NrMG1xbXo1OFpTRU5URUtvakl0dXFJK04xeEFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjcxODA3OTQ5CWZpbGU6Q2hhdEdQVF8wLjYuNF94NjRfZW4tVVMubXNpLnppcApueCtzQThNcVpkUC9neGdFT2U5VlNaOHVwdHVIdDNHR0xYZjFpWThuLzdMcVZVOTJWLzBlNWxpR21CZS9sb2xiY1M2YkJrckdFcWVtZEdkM3IyTzRBdz09Cg==",
+      "url": "https://github.com/lencx/ChatGPT/releases/download/v0.6.4/ChatGPT_0.6.4_x64_en-US.msi.zip"
+    },
+    "linux": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRkRlWVZ1WWttc2Q5Y1Jvb1lJTFpPSm9vQ2FDZU5MeUhJeUFQbTNOcmZ4OGE2WU9xYVVQdWt5OHF0Szl3TnczQThkRHY3OVVKRlhNNWxGRXpjaER6cm0rVWdSLzk1Y0FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjcxODA3NjEyCWZpbGU6Y2hhdC1ncHRfMC42LjRfYW1kNjQuQXBwSW1hZ2UudGFyLmd6CkJmdkdZcGg2Vm9EL3h3Y2ROWXE3NHcyQjZwYS9qSlFSYTdxYUUrV1pCYnM5bGhBSnBwdWRWbzF1aTBnWnJkNzh0bWYyN0tsWXNmSkc3SVJ2clhHV0F3PT0K",
+      "url": "https://github.com/lencx/ChatGPT/releases/download/v0.6.4/chat-gpt_0.6.4_amd64.AppImage.tar.gz"
+    },
+    "darwin": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRkRlWVZ1WWttc1kzb2dCTVdqS0ZES1dTSFYrNzlsVlF1U1BTNXBCbWhuMkR2ZWdkVTNiK1NDS1NPNjdrcTZGcnVRczM1TWc0UkJtWUR5djNMZnVSemNoMTI4aW5WUUEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjcxODA3NzYyCWZpbGU6Q2hhdEdQVC5hcHAudGFyLmd6Cnp6dGhKNnpqN0JtYW00RFdhYjcva3hUSVY3RmxTRlNHMmlHenBzZCtza2VPZWwyQ0VocGl3MTNJUVZhRlZDT2xMNC9UeExhQkhUTVRJUFpnSFJ2S0R3PT0K",
+      "url": "https://github.com/lencx/ChatGPT/releases/download/v0.6.4/ChatGPT.app.tar.gz"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRkRlWVZ1WWttc1kzb2dCTVdqS0ZES1dTSFYrNzlsVlF1U1BTNXBCbWhuMkR2ZWdkVTNiK1NDS1NPNjdrcTZGcnVRczM1TWc0UkJtWUR5djNMZnVSemNoMTI4aW5WUUEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjcxODA3NzYyCWZpbGU6Q2hhdEdQVC5hcHAudGFyLmd6Cnp6dGhKNnpqN0JtYW00RFdhYjcva3hUSVY3RmxTRlNHMmlHenBzZCtza2VPZWwyQ0VocGl3MTNJUVZhRlZDT2xMNC9UeExhQkhUTVRJUFpnSFJ2S0R3PT0K",
+      "url": "https://github.com/lencx/ChatGPT/releases/download/v0.6.4/ChatGPT.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRkRlWVZ1WWttc1kzb2dCTVdqS0ZES1dTSFYrNzlsVlF1U1BTNXBCbWhuMkR2ZWdkVTNiK1NDS1NPNjdrcTZGcnVRczM1TWc0UkJtWUR5djNMZnVSemNoMTI4aW5WUUEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjcxODA3NzYyCWZpbGU6Q2hhdEdQVC5hcHAudGFyLmd6Cnp6dGhKNnpqN0JtYW00RFdhYjcva3hUSVY3RmxTRlNHMmlHenBzZCtza2VPZWwyQ0VocGl3MTNJUVZhRlZDT2xMNC9UeExhQkhUTVRJUFpnSFJ2S0R3PT0K",
+      "url": "https://github.com/lencx/ChatGPT/releases/download/v0.6.4/ChatGPT.app.tar.gz"
+    },
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRkRlWVZ1WWttc2Q5Y1Jvb1lJTFpPSm9vQ2FDZU5MeUhJeUFQbTNOcmZ4OGE2WU9xYVVQdWt5OHF0Szl3TnczQThkRHY3OVVKRlhNNWxGRXpjaER6cm0rVWdSLzk1Y0FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjcxODA3NjEyCWZpbGU6Y2hhdC1ncHRfMC42LjRfYW1kNjQuQXBwSW1hZ2UudGFyLmd6CkJmdkdZcGg2Vm9EL3h3Y2ROWXE3NHcyQjZwYS9qSlFSYTdxYUUrV1pCYnM5bGhBSnBwdWRWbzF1aTBnWnJkNzh0bWYyN0tsWXNmSkc3SVJ2clhHV0F3PT0K",
+      "url": "https://github.com/lencx/ChatGPT/releases/download/v0.6.4/chat-gpt_0.6.4_amd64.AppImage.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRkRlWVZ1WWttc1VwOENBUHRxNU10eEs1ZjlUUTE0OFJiLytLdTNWRngwS0tkdEV0ZTQ5Wm1KVlNzS1VSc0VLanp4c3NrMG1xbXo1OFpTRU5URUtvakl0dXFJK04xeEFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjcxODA3OTQ5CWZpbGU6Q2hhdEdQVF8wLjYuNF94NjRfZW4tVVMubXNpLnppcApueCtzQThNcVpkUC9neGdFT2U5VlNaOHVwdHVIdDNHR0xYZjFpWThuLzdMcVZVOTJWLzBlNWxpR21CZS9sb2xiY1M2YkJrckdFcWVtZEdkM3IyTzRBdz09Cg==",
+      "url": "https://github.com/lencx/ChatGPT/releases/download/v0.6.4/ChatGPT_0.6.4_x64_en-US.msi.zip"
+    }
+  }
+}
